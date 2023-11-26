@@ -23,5 +23,8 @@ if u are using a visual studio code follow steps:
 4.If u want to change the file name, then u have to connect that file externally. 
 <br>
 <br>
+5.Run the HTML file.
+<br>
+<br>
 **/
 

@@ -1,15 +1,27 @@
 # one-plus-website-clone
-One Plus website is developed using only HTML and CSS.
+One Plus website Clone developed usig HTML and CSS.
 <br>
 <br>
-<br>
-steps to run the file:
-<br>
-<br>
-1.CSS,JS files are internally linked to HTML file.
+<strong>steps to understand the project<strong>:
 <br>
 <br>
-2.Run only HTML File.
+if u are using a visual studio code follow steps:
 <br>
 <br>
+/**
+<br>
+<br>
+1.Create the HTML file in your VS Code and copy the HTML code from repository.
+<br>
+<br>
+2.Also Create the CSS file in your VS Code and copy the CSS code from repository.
+<br>
+<br>
+3.Don't connect any CSS file externally.
+<br>
+<br>
+4.If u want to change the file name, then u have to connect that file externally. 
+<br>
+<br>
+**/
 
